@@ -3,7 +3,7 @@
  * print_number - prints an integer
  * @n:.input integer parameter
  *
- *momberume duncan
+ * momberume duncan
  */
 void print_number(int n)
 {
