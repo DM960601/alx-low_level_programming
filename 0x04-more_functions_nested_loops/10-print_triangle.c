@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_triangle - entry point
  * owner duncan momberume
@@ -7,7 +6,6 @@
  *@size: size of the triangle
  * Return: void
  */
-
 void print_triangle(int size)
 {
 	int row, hashes, spaces;
