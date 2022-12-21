@@ -3,6 +3,7 @@
 /**
  * leet - encodes a string into 1337
  * @s: string to encode
+ * Done by Dee
  *
  * Return: address of s
  */
@@ -22,4 +23,3 @@ char *leet(char *s)
 	}
 	return (s);
 }
-/* Let me do it */

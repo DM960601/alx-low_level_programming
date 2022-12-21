@@ -5,6 +5,7 @@
  * @dest:char
  * @src:char
  * Return:char
+ * Dee lets do it
  */
 char *_strcat(char *dest, char *src)
 {

@@ -5,6 +5,7 @@
   * @n: Number to prints
   *
   * Return: Nothing
+  * Done by Dee
   */
 void print_number(int n)
 {

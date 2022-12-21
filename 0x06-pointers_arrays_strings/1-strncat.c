@@ -6,6 +6,7 @@
  * @src: The source of strings
  * @dest: The destination of the string
  * @n: The length of int
+ * By dee
  *
  * Return: pointer to the resulting string dest
  */

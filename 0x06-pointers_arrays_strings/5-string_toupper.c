@@ -3,6 +3,7 @@
  * string_toupper - change lowercase to uppercase
  * @s:string
  * Return:char
+ * Done by dee
  */
 char *string_toupper(char *s)
 {
@@ -18,4 +19,3 @@ i = 0;
 	}
 	return (s);
 }
-/*Bwave ICT */
