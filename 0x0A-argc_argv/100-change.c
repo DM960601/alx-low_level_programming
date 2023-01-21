@@ -21,7 +21,7 @@ int main(int argc, char **argv)
 		printf("Error\n");
 		return (1);
 	}
-	
+
 	total = strtol(argv[1], &p, 10);
 	count = 0;
 
@@ -38,7 +38,7 @@ int main(int argc, char **argv)
 				}
 			}
 		}
-		if (total ==1)
+		if (total == 1)
 			count++;
 	}
 	else
