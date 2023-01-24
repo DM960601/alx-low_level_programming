@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main - multiplies two number
+ * main - multiplies two numbers.
  * @argc: argument count
  * @argv: arguments
  *
@@ -20,7 +20,7 @@ int main(int argc, char **argv)
 
 	x = atoi(argv[1]);
 	y = atoi(argv[2]);
-	printf("%\n", x * y);
+	printf("%d\n", x * y);
 
 	return (0);
 }
